@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Header from './components/header';
+import Footer from './components/footer';
 
 // import Users from './pages/users'
 
@@ -18,6 +19,7 @@ const App = () => (
         </div>
       </div>
     </div>
+    <Footer />
 
   </div>
 );
